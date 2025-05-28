@@ -328,7 +328,7 @@ ol {
 }
 
 .team-social-links .link:hover {
-  background-color: #31d0aa;
+  background-color: #404bbf;
   transition-duration: 250ms;
 }
 
@@ -378,7 +378,7 @@ ol {
   gap: 16px;
 }
 
-.social-links .link {
+.social-links .footer-link {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -390,7 +390,7 @@ ol {
     background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.social-links .link:hover {
+.social-links .footer-link:hover {
   background-color: #31d0aa;
 }
 
