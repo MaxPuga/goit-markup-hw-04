@@ -237,6 +237,14 @@ ol {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.benefits-subtitle-first {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
   margin-bottom: 8px;
 }
 
@@ -246,7 +254,6 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
   max-width: 264px;
-  margin-bottom: 8px;
 }
 
 .benefits {
@@ -316,6 +323,7 @@ ol {
   border-top: 0;
   text-align: center;
   border-radius: 0 0 4px 4px;
+  gap: 8px;
 }
 
 .link {
@@ -365,6 +373,7 @@ ol {
   border: 1px solid #e7e9fc;
   border-top: 0;
   flex-basis: calc((100% - 48px) / 3);
+  gap: 8px;
 }
 
 .advantage-list {
